@@ -1,0 +1,19 @@
+{
+  "prices": {
+    "golden_apple": 1235,
+    "saddle": 250,
+    "arrow": 48,
+    "diamond_sword": 2175,
+    "bucket": 87,
+    "apple": 5,
+    "iron_axe": 850,
+    "diamond": 1000,
+    "diamond_horse_armor": 5000,
+    "compass": 500,
+    "iron_sword": 750,
+    "coal": 2,
+    "flint": 50,
+    "iron_pickaxe": 850
+  },
+  "sales": {}
+}
